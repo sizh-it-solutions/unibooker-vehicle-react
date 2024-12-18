@@ -1,7 +1,7 @@
 function Header() {
     return (
       <header>
-        <h1>Zoomcar React App</h1>
+        <h1>Zoomcar React App Sana</h1>
       </header>
     );
   }
